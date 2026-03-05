@@ -31,3 +31,9 @@ Always learning and building new projects to improve my backend development skil
 | [ai-story-generator](https://github.com/Pankaj-099/ai-story-generator) | AI-powered interactive storytelling application built with FastAPI and React. | Python, FastAPI, React |
 | [react-fastapi-b2b-saas](https://github.com/Pankaj-099/react-fastapi-b2b-saas) | B2B SaaS starter with auth, roles, permissions, and subscription billing | FastAPI, React,Typescript, PostgreSQL |
 
+## Currently Learning
+
+• Advanced FastAPI architecture  
+• Authentication & RBAC systems  
+• Scalable SaaS backend design
+
