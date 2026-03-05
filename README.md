@@ -28,6 +28,6 @@ Always learning and building new projects to improve my backend development skil
 |--------|-------------|------|
 | [stay-booking-app](https://github.com/Pankaj-099/stay-booking-app) | Full-stack booking platform for discovering and reserving stays | JavaScript, Node.js, Express, MongoDB |
 | [ai-interview-prep](https://github.com/Pankaj-099/ai-interview-prep) | AI-powered interview preparation platform that generates practice questions | JavaScript, React, AI |
-| [ai-story-generator](https://github.com/Pankaj-099/ai-story-generator) | Interactive AI-powered story generation app | Python, FastAPI, React |
-| [saas-boilerplate](https://github.com/Pankaj-099/react-fastapi-b2b-saas) | B2B SaaS starter with auth, roles, permissions, and subscription billing | FastAPI, React,Typescript, PostgreSQL |
+| [ai-story-generator](https://github.com/Pankaj-099/ai-story-generator) | AI-powered interactive storytelling application built with FastAPI and React. | Python, FastAPI, React |
+| [react-fastapi-b2b-saas](https://github.com/Pankaj-099/react-fastapi-b2b-saas) | B2B SaaS starter with auth, roles, permissions, and subscription billing | FastAPI, React,Typescript, PostgreSQL |
 
