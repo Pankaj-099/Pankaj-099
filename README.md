@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Pankaj Damale
 
-<!--
-**Pankaj-099/Pankaj-099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused developer interested in APIs, databases, and scalable SaaS systems.
 
-Here are some ideas to get you started:
+I enjoy building full-stack applications with a strong focus on backend architecture, API design, and database systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Always learning and building new projects to improve my backend development skills.
+
+---
+
+## What I Work With
+
+**Languages:** Java, Python, JavaScript, TypeScript
+
+**Backend:** Node.js, Express.js, FastAPI
+
+**Frontend:** React, HTML, CSS, Tailwind CSS
+
+**Databases:** MySQL, PostgreSQL, MongoDB
+
+**Tools:** Git, GitHub, VS Code, JetBrains IDEs, Postman
+
+---
+
+## Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [stay-booking-app](https://github.com/Pankaj-099/stay-booking-app) | Full-stack booking platform for discovering and reserving stays | JavaScript, Node.js, Express, MongoDB |
+| [ai-interview-prep](https://github.com/Pankaj-099/ai-interview-prep) | AI-powered interview preparation platform that generates practice questions | JavaScript, React, AI |
+| [ai-story-generator](https://github.com/Pankaj-099/ai-story-generator) | Interactive AI-powered story generation app | Python, FastAPI, React |
+| [saas-boilerplate](https://github.com/Pankaj-099/react-fastapi-b2b-saas) | B2B SaaS starter with auth, roles, permissions, and subscription billing | FastAPI, React,Typescript, PostgreSQL |
+
