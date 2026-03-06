@@ -4,8 +4,6 @@ Backend-focused developer interested in APIs, databases, and scalable SaaS syste
 
 I enjoy building full-stack applications with a strong focus on backend architecture, API design, and database systems.
 
-Always learning and building new projects to improve my backend development skills.
-
 ---
 
 ## What I Work With
