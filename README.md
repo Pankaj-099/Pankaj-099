@@ -20,19 +20,9 @@ I focus on building backend-heavy applications with clean architecture and real-
 
 ## 🛠 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge\&logo=java)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge\&logo=python)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge\&logo=typescript)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge\&logo=node.js)
-![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge\&logo=fastapi)
+![Tech Stack](https://skillicons.dev/icons?i=java,python,js,ts,nodejs,express,fastapi,react,tailwind,mysql,postgres,mongodb,git,github,vscode,postman)
 
-![React](https://img.shields.io/badge/React-000?style=for-the-badge\&logo=react)
-![Tailwind](https://img.shields.io/badge/Tailwind-000?style=for-the-badge\&logo=tailwind-css)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge\&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge\&logo=mongodb)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge\&logo=git)
-
-
+---
 
 ## 📚 Currently Learning
 
