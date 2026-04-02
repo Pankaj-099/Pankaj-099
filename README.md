@@ -79,6 +79,4 @@ I specialize in full-stack applications with a strong focus on **backend archite
 
 ⭐ **Focused on backend engineering, scalability, and building production-ready systems**
 
-![Profile Views](https://komarev.com/ghpvc/?username=Pankaj-099&color=blue&style=flat)
-
 </div>
