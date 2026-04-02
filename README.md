@@ -1,8 +1,19 @@
 # Hi, I'm Pankaj Damale
 
-> Backend-focused developer building scalable APIs, databases, and SaaS systems
+> Backend-focused developer building scalable APIs, SaaS systems, and AI-powered applications
 
-I specialize in full-stack applications with a strong focus on backend architecture, API design, and database systems.
+I specialize in full-stack applications with a strong focus on **backend architecture**, **API design**, and **database systems**. I'm passionate about building production-ready systems that scale.
+
+---
+
+## 🎯 About Me
+
+- 🔧 Designing robust REST APIs with Node.js, Express, and FastAPI
+- 🧠 Working with databases & system design (MySQL, PostgreSQL, MongoDB)
+- 🔐 Implementing authentication & RBAC systems
+- 🤖 Integrating AI into applications
+- ⚡ Building full-stack SaaS platforms with subscription billing
+- 💡 Focused on clean code, scalability, and production-ready solutions
 
 ---
 
@@ -25,7 +36,7 @@ I specialize in full-stack applications with a strong focus on backend architect
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### Databases
+### Databases & Storage
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
@@ -34,26 +45,16 @@ I specialize in full-stack applications with a strong focus on backend architect
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
 ![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
----
-
-## 📂 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **[stay-booking-app](https://github.com/Pankaj-099/stay-booking-app)** | Full-stack booking platform for discovering and reserving stays | Node.js, Express, React, MongoDB |
-| **[ai-interview-prep](https://github.com/Pankaj-099/ai-interview-prep)** | AI-powered interview preparation platform with practice questions | React, JavaScript, AI |
-| **[ai-story-generator](https://github.com/Pankaj-099/ai-story-generator)** | Interactive storytelling application with AI generation | FastAPI, React, Python |
-| **[react-fastapi-b2b-saas](https://github.com/Pankaj-099/react-fastapi-b2b-saas)** | B2B SaaS starter with auth, RBAC, and subscription billing | FastAPI, React, TypeScript, PostgreSQL |
 
 ---
 
 ## 📚 Currently Learning
 
-- Advanced FastAPI architecture & async patterns
-- Authentication & RBAC systems implementation
-- Scalable SaaS backend design & billing systems
+- 📖 Advanced FastAPI architecture & async patterns
+- 🏗️ Authentication & RBAC systems implementation  
+- 💰 Scalable SaaS backend design & subscription billing systems
 
 ---
 
@@ -65,8 +66,19 @@ I specialize in full-stack applications with a strong focus on backend architect
 
 ---
 
+## 💡 What I'm Interested In
+
+- Collaborating on backend/full-stack projects
+- Discussing system design & architecture
+- Contributing to open-source projects
+- Mentorship in backend engineering
+
+---
+
 <div align="center">
 
 ⭐ **Focused on backend engineering, scalability, and building production-ready systems**
+
+![Profile Views](https://komarev.com/ghpvc/?username=Pankaj-099&color=blue&style=flat)
 
 </div>
