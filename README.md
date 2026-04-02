@@ -20,20 +20,13 @@ I focus on building backend-heavy applications with clean architecture and real-
 
 ## 🛠 Tech Stack
 
-**Languages**
-![Languages](https://skillicons.dev/icons?i=java,python,js,ts)
-
-**Backend**
-![Backend](https://skillicons.dev/icons?i=nodejs,express,fastapi)
-
-**Frontend**
-![Frontend](https://skillicons.dev/icons?i=react,tailwind)
-
-**Databases**
-![Databases](https://skillicons.dev/icons?i=postgres,mongodb,mysql)
-
-**Tools**
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 
 ## 📚 Currently Learning
 
