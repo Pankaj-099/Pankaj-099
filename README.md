@@ -4,10 +4,6 @@
 
 I specialize in full-stack applications with a strong focus on **backend architecture**, **API design**, and **database systems**. I'm passionate about building production-ready systems that scale.
 
-<p align="center">
-  <img width="120" height="120" src="my_gif.gif" />
-</p>
-
 ---
 
 ## 🎯 About Me
