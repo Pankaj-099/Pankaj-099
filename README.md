@@ -30,9 +30,10 @@
 
 ## 📚 Currently Learning
 
-- 📖 Advanced FastAPI architecture & async patterns
-- 🏗️ Authentication & RBAC systems implementation  
-- 💰 Scalable SaaS backend design & subscription billing systems
+- ⚡ Advanced backend architecture & async system design
+- 🔄 Message queues, background jobs & real-time systems
+- 🧠 Database optimization, indexing & query performance
+- 🚀 Scaling APIs with caching, load balancing & fault tolerance
 
 ---
 
