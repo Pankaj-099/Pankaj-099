@@ -30,10 +30,6 @@
 
 ## 🚀 Featured Projects
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
 ### 🧠 GraphNexus  
 AI-powered relationship intelligence platform  
 
@@ -43,16 +39,13 @@ AI-powered relationship intelligence platform
 - 🚀 Scalable backend architecture  
 
 <a href="https://github.com/Pankaj-099/nexus-graph">
-  <img src="https://skillicons.dev/icons?i=github" height="35"/>
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
-&nbsp;
 <a href="YOUR_LIVE_LINK">
-  <img src="https://skillicons.dev/icons?i=vercel" height="35"/>
+  <img src="https://skillicons.dev/icons?i=vercel" height="40"/>
 </a>
 
-</td>
-
-<td width="50%" valign="top">
+---
 
 ### ⚡ SyncBoard  
 Real-time SaaS collaboration platform  
@@ -63,16 +56,11 @@ Real-time SaaS collaboration platform
 - 🚀 Production-ready system design  
 
 <a href="https://github.com/Pankaj-099/syncboard">
-  <img src="https://skillicons.dev/icons?i=github" height="35"/>
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
-&nbsp;
 <a href="YOUR_LIVE_LINK">
-  <img src="https://skillicons.dev/icons?i=vercel" height="35"/>
+  <img src="https://skillicons.dev/icons?i=vercel" height="40"/>
 </a>
-
-</td>
-</tr>
-</table>
 
 ---
 
