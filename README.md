@@ -18,34 +18,18 @@
 ## 🛠 Tech Stack
 
 ### ⚡ Languages & Core
-<p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/java.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/javascript.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/typescript.svg" width="40"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript" />
 </p>
 
 ### 🚀 Backend, Frontend & Frameworks
-<p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/nodedotjs.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/express.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/fastapi.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/react.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/html5.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/css3.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tailwindcss.svg" width="40"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,react,html,css,tailwind" />
 </p>
 
 ### 🗄 Databases & Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mysql.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/postgresql.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mongodb.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/git.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/visualstudiocode.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/jetbrains.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/postman.svg" width="40"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,vscode,postman" />
 </p>
 
 ---
