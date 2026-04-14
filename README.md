@@ -67,7 +67,7 @@ Real-time SaaS collaboration platform
 
 <p>
   <a href="https://www.linkedin.com/in/pankaj-d-47ab673a8/" target="_blank">
-  <img src="assets/linkedin.png" height="40" />
+  <img src="assets/LinkedIn.png" height="40" />
 </a>
   &nbsp;&nbsp;
   <a href="mailto:damalepankaj28@gmail.com">
