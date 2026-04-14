@@ -18,13 +18,13 @@
 ## 🛠 Tech Stack
 
 ### ⚡ Languages & Core
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,sql" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript" />
 
 ### 🚀 Backend, Frontend & Frameworks
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,react,tailwind,websocket,sqlalchemy" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,react,tailwind" />
 
 ### 🗄 Databases, DevOps & Tools
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,git,github,githubactions,jetbrains" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,git,github,githubactions" />
 
 ---
 
