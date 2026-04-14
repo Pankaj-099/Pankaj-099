@@ -64,29 +64,18 @@ Real-time SaaS collaboration platform
 
 ---
 
-## 📚 Currently Learning
+## 📫 Connect with me
 
-- ⚡ Advanced backend architecture & async system design
-- 🔄 Message queues, background jobs & real-time systems
-- 🧠 Database optimization, indexing & query performance
-- 🚀 Scaling APIs with caching, load balancing & fault tolerance
-
----
-
-## 🔗 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/Pankaj-099)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)]()
-
----
-
-## 💡 What I'm Interested In
-
-- Collaborating on backend/full-stack projects
-- Discussing system design & architecture
-- Contributing to open-source projects
-- Mentorship in backend engineering
+<p>
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" height="40"
+         style="filter: invert(42%) sepia(93%) saturate(1352%) hue-rotate(180deg) brightness(95%) contrast(101%);" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" />
+  </a>
+</p>
 
 ---
 
