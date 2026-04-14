@@ -28,6 +28,58 @@
 
 ---
 
+## 🚀 Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 GraphNexus  
+AI-powered relationship intelligence platform  
+
+- 🤖 LLM-based entity extraction  
+- ⚡ Fast graph queries & real-time exploration  
+- 🔐 Secure APIs with JWT  
+- 🚀 Scalable backend architecture  
+
+<p>
+<a href="https://github.com/Pankaj-099/nexus-graph">
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="YOUR_LIVE_LINK">
+  <img src="https://img.shields.io/badge/Live-Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚡ SyncBoard  
+Real-time SaaS collaboration platform  
+
+- 🔄 WebSocket-based real-time updates  
+- 🔐 RBAC + secure authentication  
+- ⚡ Optimized backend with caching  
+- 🚀 Production-ready system design  
+
+<p>
+<a href="https://github.com/Pankaj-099/syncboard">
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="YOUR_LIVE_LINK">
+  <img src="https://img.shields.io/badge/Live-Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 📚 Currently Learning
 
 - ⚡ Advanced backend architecture & async system design
