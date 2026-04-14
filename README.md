@@ -1,8 +1,19 @@
-# Hi, I'm Pankaj Damale
+<h1 align="center">Hi 👋🏻, I'm Pankaj Damale 👨🏻‍💻</h1>
 
-> Backend-focused developer building scalable APIs, SaaS systems, and AI-powered applications
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=19&pause=1000&color=38C2FF&center=true&vCenter=true&width=600&lines=Backend-focused+Developer;Building+Scalable+APIs+%26+SaaS+Systems;AI-powered+Application+Builder" alt="Typing SVG" />
+  </a>
+</p>
 
-I specialize in full-stack applications with a strong focus on **backend architecture**, **API design**, and **database systems**. I'm passionate about building production-ready systems that scale.
+<p align="center">
+  Passionate about building production-ready systems that scale 🚀 <br/>
+  Specialized in <b>Backend Architecture</b>, <b>API Design</b>, and <b>Database Systems</b>
+</p>
+
+<p align="center">
+  <img width="120" height="120" src="Photo.gif" />
+</p>
 
 ---
 
