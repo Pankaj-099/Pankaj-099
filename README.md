@@ -77,6 +77,18 @@ Real-time SaaS collaboration platform
   </a>
 </p>
 
+## 📫 Connect
+
+<p>
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:damalepankaj28@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" />
+  </a>
+</p>
+
 ---
 
 <div align="center">
