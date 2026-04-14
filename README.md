@@ -4,7 +4,9 @@
 <p align="center">
   <img width="150" height="200" src="pfp.gif" />
 </p></h1>
+
 ---
+
 ## 🎯 About Me
 
 - 🔧 Designing robust REST APIs with Node.js, Express, and FastAPI
