@@ -7,11 +7,6 @@
 </p>
 
 <p align="center">
-  Passionate about building production-ready systems that scale 🚀 <br/>
-  Specialized in <b>Backend Architecture</b>, <b>API Design</b>, and <b>Database Systems</b>
-</p>
-
-<p align="center">
   <img width="120" height="120" src="Photo.gif" />
 </p>
 
