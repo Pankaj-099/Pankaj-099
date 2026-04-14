@@ -7,14 +7,11 @@
 
 ---
 
-## 🎯 About Me
-
-- 🔧 Designing robust REST APIs with Node.js, Express, and FastAPI
-- 🧠 Working with databases & system design (MySQL, PostgreSQL, MongoDB)
-- 🔐 Implementing authentication & RBAC systems
-- 🤖 Integrating AI into applications
-- ⚡ Building full-stack SaaS platforms with subscription billing
-- 💡 Focused on clean code, scalability, and production-ready solutions
+## ✨ About Me
+- 🔧 Building scalable backend systems and APIs
+- 🧠 Focused on clean architecture and efficient databases
+- 🔐 Implementing secure authentication and authorization systems
+- 🤖 Working on AI-powered applications
 
 ---
 
