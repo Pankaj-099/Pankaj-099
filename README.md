@@ -12,8 +12,7 @@
 - 🔐 Implementing secure authentication and authorization systems
 - 🤖 Working on AI-powered applications
 
-
-
+<br/>
 
 ## 🛠 Tech Stack
 
@@ -26,10 +25,11 @@
 ### 🗄 Databases, DevOps & Tools
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,git,github,githubactions" />
 
+<br/>
 
 ## 🚀 Featured Projects
 
-### 🧠 GraphNexus  
+### 🧠 GraphNexus — Relationship Intelligence Platform 
 AI-powered relationship intelligence platform  
 
 - 🤖 LLM-based entity extraction  
@@ -46,7 +46,7 @@ AI-powered relationship intelligence platform
 
 
 
-### ⚡ SyncBoard  
+### ⚡ SyncBoard — Real-Time SaaS Platform
 Real-time SaaS collaboration platform  
 
 - 🔄 WebSocket-based real-time updates  
@@ -61,7 +61,7 @@ Real-time SaaS collaboration platform
   <img src="https://skillicons.dev/icons?i=vercel" height="40"/>
 </a>
 
-
+<br/>
 
 ## 📫 Connect with me
 
@@ -75,6 +75,7 @@ Real-time SaaS collaboration platform
   </a>
 </p>
 
+<br/>
 
 ## 📈 Activity Graph
 
@@ -90,7 +91,7 @@ Real-time SaaS collaboration platform
   </picture>
 </div>
 
----
+<br/>
 
 ## 🐍 Github Contribution Snake
 
