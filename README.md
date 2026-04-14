@@ -3,9 +3,8 @@
 
 <p align="center">
   <img width="150" height="200" src="pfp.gif" />
-</p>
+</p></h1>
 
----
 
 ## 🎯 About Me
 
