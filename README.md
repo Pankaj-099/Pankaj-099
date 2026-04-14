@@ -30,6 +30,10 @@
 
 ## 🚀 Featured Projects
 
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
 ### 🧠 GraphNexus  
 AI-powered relationship intelligence platform  
 
@@ -39,13 +43,16 @@ AI-powered relationship intelligence platform
 - 🚀 Scalable backend architecture  
 
 <a href="https://github.com/Pankaj-099/nexus-graph">
-  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  <img src="https://skillicons.dev/icons?i=github" height="35"/>
 </a>
+&nbsp;
 <a href="YOUR_LIVE_LINK">
-  <img src="https://skillicons.dev/icons?i=vercel" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vercel" height="35"/>
 </a>
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ### ⚡ SyncBoard  
 Real-time SaaS collaboration platform  
@@ -56,11 +63,16 @@ Real-time SaaS collaboration platform
 - 🚀 Production-ready system design  
 
 <a href="https://github.com/Pankaj-099/syncboard">
-  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  <img src="https://skillicons.dev/icons?i=github" height="35"/>
 </a>
+&nbsp;
 <a href="YOUR_LIVE_LINK">
-  <img src="https://skillicons.dev/icons?i=vercel" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vercel" height="35"/>
 </a>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -73,18 +85,6 @@ Real-time SaaS collaboration platform
   </a>
   &nbsp;&nbsp;
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" />
-  </a>
-</p>
-
-## 📫 Connect
-
-<p>
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:damalepankaj28@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" />
   </a>
 </p>
