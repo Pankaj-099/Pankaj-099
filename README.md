@@ -66,7 +66,7 @@ Real-time SaaS collaboration platform
 ## 📫 Connect with me
 
 <p>
-  <a href="https://www.linkedin.com/in/pankaj-d-47ab673a8/" target="_blank">
+  <a href="https://www.linkedin.com/in/pankajdamale/" target="_blank">
   <img src="assets/LinkedIn.png" height="40" />
 </a>
   &nbsp;&nbsp;
